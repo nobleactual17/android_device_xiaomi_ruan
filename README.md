@@ -1,6 +1,6 @@
 # LineageOS 23.0 Device Tree — Xiaomi Redmi Pad Pro 5G / POCO Pad 5G (ruan)
 
-> **Status:** Work in Progress — Unofficial
+> **Status:** Work in Progress —
               Recovery boot and rom doesn't
 
 ---
